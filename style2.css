@@ -1,0 +1,22 @@
+
+body{
+  background-color:grey;
+}
+
+h1{
+  color: lightgrey;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2{
+  color: black;
+  font-family: 'Lora', serif;
+}
+
+a:hover {
+  color: lightgrey;
+}
+
+td{
+  padding: 20px;
+}
